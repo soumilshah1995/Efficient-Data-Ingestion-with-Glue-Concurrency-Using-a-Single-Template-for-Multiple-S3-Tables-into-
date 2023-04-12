@@ -2,6 +2,9 @@
 Efficient Data Ingestion with Glue Concurrency: Using a Single Template for Multiple S3 Tables into a Transactional Hudi Data Lake
 ![Capture](https://user-images.githubusercontent.com/39345855/231465693-a9c13123-0c8e-41fc-88ff-e76b175c69b2.JPG)
 
+### Video Guide 
+* https://www.youtube.com/watch?v=G_Xd1haycqE&t=336s
+
 * Managing a data lake with multiple tables can be challenging, especially when it comes to writing ETL or Glue jobs for each table. That's why I'm excited to share my upcoming video on the templated approach for managing ETL jobs in a data lake. By creating a single job that can be used for multiple tables, you can save time and reduce the amount of infrastructure code needed to manage your data lake. Join me to learn more about how you can templatize your code and run the same job for multiple tables, making it easier to scale and manage your data lake
 
 #### Benifits 
